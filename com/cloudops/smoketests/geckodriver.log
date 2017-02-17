@@ -1,0 +1,173 @@
+1487320649770	geckodriver	INFO	Listening on 127.0.0.1:54046
+1487320651951	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.ULKQ46KjzQZZ
+1487320652025	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487320652063	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54080
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xD6000D,name=PServiceWorkerManager::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+jlWHYWls38bq
+1487320982784	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487320982808	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55143
+1487322157062	geckodriver	INFO	Listening on 127.0.0.1:59167
+1487322158944	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.XescMekj2aTY
+1487322158956	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487322158968	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59185
+1487322209285	geckodriver	INFO	Listening on 127.0.0.1:59344
+1487322211143	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.LZUUNdSVN0Nu
+1487322211165	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487322211182	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59355
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xD6000D,name=PServiceWorkerManager::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+FqhwsBUyEZF6
+1487322221002	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487322221017	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59410
+1487322256318	geckodriver	INFO	Listening on 127.0.0.1:59561
+1487322258324	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.aTtZ7tJyrQAl
+1487322258335	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487322258348	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59576
+1487322792914	geckodriver	INFO	Listening on 127.0.0.1:61283
+1487322794709	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.a7BvcO10k3cN
+1487322794723	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487322794738	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61306
+1487322806575	geckodriver	INFO	Listening on 127.0.0.1:61343
+1487322807824	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.P9aPcW5tpCCW
+1487322807927	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487322807945	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61362
+1487322850373	geckodriver	INFO	Listening on 127.0.0.1:61618
+1487322851846	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.przw84tpnFPG
+1487322851861	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487322851896	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61624
+1487323811167	geckodriver	INFO	Listening on 127.0.0.1:64843
+1487323812760	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.Nbcbnw4gD28w
+1487323812786	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487323812799	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64857
+1487323822406	geckodriver	INFO	Listening on 127.0.0.1:64901
+1487323824408	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.DVIR2KkwooKm
+1487323824448	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487323824463	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64915
+1487323865373	geckodriver	INFO	Listening on 127.0.0.1:65093
+1487323867380	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.3GZRGKOLs8fj
+1487323867390	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487323867403	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65106
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xD6000D,name=PServiceWorkerManager::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+v5Q7DmqxLrmi
+1487324027664	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487324027677	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49275
+1487324203448	geckodriver	INFO	Listening on 127.0.0.1:50060
+1487324205067	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.8rpVXJOtHBfh
+1487324205089	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487324205102	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50073
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:305:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:242:12
+SessionSaverInternal._saveState@resource://app/modules/s  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:305:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSavJavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 293: TypeError: this._builder is undefined
+ionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:226:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:145:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+1487330069333	geckodriver	INFO	Listening on 127.0.0.1:56230
+1487330070862	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.A600mL1S2yWj
+1487330070916	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487330070960	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56252
+1487330218655	geckodriver	INFO	Listening on 127.0.0.1:56803
+1487330220280	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.Rb2xH0YcPHDU
+1487330220293	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487330220305	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56822
+1487330476311	geckodriver	INFO	Listening on 127.0.0.1:57790
+1487330478028	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.2mQ1CnK6zo8V
+1487330478044	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487330478058	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57808
+1487330541820	geckodriver	INFO	Listening on 127.0.0.1:58077
+1487330543818	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.gMFK8Z40RSMU
+1487330543836	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487330543851	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58089
+1487331138497	geckodriver	INFO	Listening on 127.0.0.1:60343
+1487331139877	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.yKVe8cOR5Dxp
+1487331139890	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487331139903	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60362
+1487331370139	geckodriver	INFO	Listening on 127.0.0.1:61213
+1487331371700	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.4tBPP27XdxeD
+1487331371721	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487331371790	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61225
+1487333433889	geckodriver	INFO	Listening on 127.0.0.1:52291
+1487333435892	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.1gBPzexTpA6J
+1487333435929	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487333435945	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52299
+1487333510782	geckodriver	INFO	Listening on 127.0.0.1:52628
+1487333512815	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.cbVdZqhvYSMy
+1487333512837	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487333512853	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52647
+1487333611238	geckodriver	INFO	Listening on 127.0.0.1:53029
+1487333613259	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.8v6s6nve6dJ3
+1487333613274	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487333613296	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53035
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    SessionFileInternal.write@resource://app/modules/sessionstore/SessionFile.jsm:305:29
+this.SessionFile.write@resource://app/modules/sessionstore/SessionFile.jsm:76:12
+SessionSaverInternal._writeState@resource://app/modules/sessionstore/SessionSaver.jsm:242:12
+SessionSaverInternal._saveState@resource://app/modules/sessionstore/SessionSaver.jsm:213:12
+SessionSaverInternal._saveStateAsync@resource://app/modules/sessionstore/SessionSaver.jsm:226:5
+SessionSaverInternal.runDelayed/this._timeoutID<@resource://app/modules/sessionstore/SessionSaver.jsm:145:40
+setTimeout_timer@resource://gre/modules/Timer.jsm:30:5
+
+1487334137524	geckodriver	INFO	Listening on 127.0.0.1:58352
+1487334139179	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.5gkbdJ296v5u
+1487334139220	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487334139242	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58395
+1487334445333	geckodriver	INFO	Listening on 127.0.0.1:60745
+1487334446710	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.DgfT9kkkntey
+1487334447226	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487334447269	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60782
+1487334494575 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: user_password, tagName: INPUT, className: password optional
+1487336385940	geckodriver	INFO	Listening on 127.0.0.1:62139
+1487336387771	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.ZeJmJPd9kRyZ
+1487336387801	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487336387827	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62145
+1487336437452 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: user_password, tagName: INPUT, className: password optional
+1487338339322	geckodriver	INFO	Listening on 127.0.0.1:63351
+1487338340816	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.XIwhi1BgKYIP
+1487338340830	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487338340861	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63358
+1487338392202 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: user_password, tagName: INPUT, className: password optional
+1487339052785	geckodriver	INFO	Listening on 127.0.0.1:63516
+1487339054863	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.H8vvtp6NBB8H
+1487339054883	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487339054900	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63522
+1487339075074 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: user_password, tagName: INPUT, className: password optional
+1487339121313	geckodriver	INFO	Listening on 127.0.0.1:63583
+1487339123381	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.XvGzD4RQzXJ6
+1487339123396	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487339123407	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63589
+1487339143850 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: user_password, tagName: INPUT, className: password optional
+1487339221709	geckodriver	INFO	Listening on 127.0.0.1:63645
+1487339223800	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.b4JcZpCFaKH6
+1487339223811	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487339223822	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63651
+1487339240860 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: user_password, tagName: INPUT, className: password optional
+1487339311026	geckodriver	INFO	Listening on 127.0.0.1:63717
+1487339313042	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.8Ji9nO5sY3nS
+1487339313066	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487339313092	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63723
+1487339329209 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: user_password, tagName: INPUT, className: password optional
+1487339373429	geckodriver	INFO	Listening on 127.0.0.1:63790
+1487339375487	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.evq6khGH2s23
+1487339375506	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487339375529	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63796
+1487339393402 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: user_password, tagName: INPUT, className: password optional
+1487340070135	geckodriver	INFO	Listening on 127.0.0.1:64973
+1487340071732	mozprofile::profile	INFO	Using profile path C:\Users\shubh\AppData\Local\Temp\rust_mozprofile.zSUyAKH4adJF
+1487340071746	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1487340071760	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64989
+1487340104195 Marionette: Element does not have a correct accessibility role and may not be manipulated via the accessibility API -> id: user_password, tagName: INPUT, className: password optional
